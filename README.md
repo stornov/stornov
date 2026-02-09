@@ -8,8 +8,6 @@
 
 ---
 
-### 💻 System Info
-
 ```python
 from typing import List, Set
 
