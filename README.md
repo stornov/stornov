@@ -1,16 +1,43 @@
-## Hi there 👋
+# 🐍 stornov
 
-<!--
-**stornov/stornov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/20_years_old-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_Expert-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 System Info
+
+```python
+from typing import List, Set
+
+class Stornov:
+    def __init__(self):
+        self.username: str = "stornov"
+        self.location: str = "Earth"
+        self.languages: List[str] = ["Russian", "English"]
+        
+        self.expert_in: Set[str] = {"Python", "Backend Architecture", "Asyncio"}
+        self.exploring: Set[str] = {"C++", "Assembly", "JavaScript"}
+
+    def contact(self) -> str:
+        return "arsestordev@gmail.com"
+
+# Status: Building efficient systems
+```
+
+---
+
+### 🛠 Tech Stack
+
+**Expertise:**
+`Python` • `Linux` • `Git`
+
+**Learning Path:**
+`C++` • `x86_64 Assembly` • `JavaScript`
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vscode,c,cpp,js,css,html,figma,git" />
+  </a>
