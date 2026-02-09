@@ -30,14 +30,6 @@ class Stornov:
 
 ---
 
-### 🛠 Tech Stack
-
-**Expertise:**
-`Python` • `Linux` • `Git`
-
-**Learning Path:**
-`C++` • `x86_64 Assembly` • `JavaScript`
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,vscode,c,cpp,js,css,html,figma,git" />
   </a>
