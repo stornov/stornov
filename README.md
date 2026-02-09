@@ -19,7 +19,7 @@ class Stornov:
         self.location: str = "Earth"
         self.languages: List[str] = ["Russian", "English"]
         
-        self.expert_in: Set[str] = {"Python", "Backend Architecture", "Asyncio"}
+        self.expert_in: Set[str] = {"Python"}
         self.exploring: Set[str] = {"C++", "Assembly", "JavaScript"}
 
     def contact(self) -> str:
